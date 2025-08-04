@@ -1,2 +1,2 @@
-# multidoc
-Multi Document Analyser via LLMs
+# Multi Document Analyser via LLMs
+
