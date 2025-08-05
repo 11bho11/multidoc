@@ -1,4 +1,4 @@
-# Multi Document Analyser via LLMs
+# Multi Document Analyser with LLMs
 
 Today we test out how LLMs can handle analysing and summarising multiple documents, in which understanding of a document is dependent on the context of its previous documents. 
 This is useful in cases where one needs to analyse a sequence of quarterly/annual reports to identify updates and changes over time.
